@@ -1,8 +1,7 @@
 I am the bone of my sources. <br>
 Logic is my body, and data is my blood. <br>
 I have debugged over a thousand lines. <br>
-Unknown to crash,  <br>
-Nor known to glitch. <br>
+Unknown to crash, nor known to glitch. <br>
 Have withstood frustration to build many systems. <br>
 Yet, those hands will never cease typing. <br>
 So as I compile, "Unlimited Code Works". <br>
