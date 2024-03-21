@@ -1,12 +1,12 @@
-I am the bone of my sources.
-Logic is my body, and data is my blood.
-I have debugged over a thousand lines.
-Unknown to crash,
-Nor known to glitch.
-Have withstood frustration to build many systems.
-Yet, those hands will never cease typing.
-So as I compile, "Unlimited Code Works".
-
+I am the bone of my sources. <br>
+Logic is my body, and data is my blood. <br>
+I have debugged over a thousand lines. <br>
+Unknown to crash,  <br>
+Nor known to glitch. <br>
+Have withstood frustration to build many systems. <br>
+Yet, those hands will never cease typing. <br>
+So as I compile, "Unlimited Code Works". <br>
+ 
 <!--
 **rockmanray/rockmanray** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
